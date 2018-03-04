@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animals/Animals.iml" filepath="$PROJECT_DIR$/Animals/Animals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AverageNnum/AverageNnum.iml" filepath="$PROJECT_DIR$/AverageNnum/AverageNnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentGroup/StudentGroup.iml" filepath="$PROJECT_DIR$/StudentGroup/StudentGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumNumber/SumNumber.iml" filepath="$PROJECT_DIR$/SumNumber/SumNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/average2number/average2number.iml" filepath="$PROJECT_DIR$/average2number/average2number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/average2number/averageNnumb.iml" filepath="$PROJECT_DIR$/average2number/averageNnumb.iml" />
+      <module fileurl="file://$PROJECT_DIR$//averageNnumber.iml" filepath="$PROJECT_DIR$//averageNnumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinateGrid/coordinateGrid.iml" filepath="$PROJECT_DIR$/coordinateGrid/coordinateGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphics/graphics.iml" filepath="$PROJECT_DIR$/graphics/graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primitiveCalculator/primitiveCalculator.iml" filepath="$PROJECT_DIR$/primitiveCalculator/primitiveCalculator.iml" />
+    </modules>
+  </component>
+</project>
